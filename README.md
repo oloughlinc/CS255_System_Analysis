@@ -6,7 +6,7 @@ DriverPass is a hypothetical client who wishes to have a software system built t
 
 # What did you do particularly well?
 
-This is our first attempt at system design documentation and I believe it does a good job representing the system in a way that can be transalted to a development team. The steps and functions required are clearly laid out in a variety of formats. Especially helpful are the different diagrams that I was able to build for this project as it helps the team to understand the DriverPass system in terms of software instead of just customer requirements.
+This is a first attempt at system design documentation and I believe it does a good job representing the system in a way that can be translated to a development team. The steps and functions required are clearly laid out in a variety of formats. Especially helpful are the different diagrams that I was able to build for this project as it helps the team to understand the DriverPass system in terms of software instead of just customer requirements.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
